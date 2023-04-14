@@ -1,5 +1,5 @@
 # Data Science Bootcamp 07
-All my data project in the bootcamp. There are 10 sprints.
+All my data project and programming project in the data science bootcamp.
 1. Google Sheets
    - Dynamic Query
    - Regular Expression
