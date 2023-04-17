@@ -121,3 +121,5 @@ palmmyHealth <- function() {
     }
   }
 }
+
+palmmyHealth()
