@@ -15,4 +15,3 @@ All my data project and programming project in the data science bootcamp.
 4. Python Programming
    - Pizza Chatbot
    - Pandas Project
-   - API
